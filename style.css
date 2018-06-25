@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif, comci-sans;
+    color:black;
+    font-size:22px;
+    background-size: cover;
+    width:%100;
+    margin:auto;
+}
+
+h1 {
+    text-align: center;
+    border-bottom: solid 20px black;
+    background-color: cadetblue;
+}
+img {
+    border: dotted 5px black
+        border-radius: 10%;
+    margin:auto;
+    width: 75%;
+    display: block;
+}
